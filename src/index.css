@@ -9,7 +9,8 @@ body {
   font-family: 'Quicksand', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: radial-gradient(#303b37, #1a1f1d);
+  background-image: url("./pile_of_coins_in_front_3_dimensional_bar_graph_and_line.png");
+  background-size: cover;
   color: #e1eeeb;
   min-height: 100vh;
 }
@@ -43,7 +44,7 @@ body {
   max-width: 30rem;
   margin: 2rem auto;
   border-radius: 4px;
-  background: linear-gradient(180deg, #307e6c, #2b996d);
+  background: linear-gradient(180deg, #305b7e75, #2b996d95);
 }
 
 .input-group {
