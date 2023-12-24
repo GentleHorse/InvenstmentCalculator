@@ -9,7 +9,7 @@ body {
   font-family: 'Quicksand', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("./pile_of_coins_in_front_3_dimensional_bar_graph_and_line.png");
+  background-image: url("./assets/pile_of_coins_in_front_3_dimensional_bar_graph_and_line.png");
   background-size: cover;
   color: #e1eeeb;
   min-height: 100vh;
